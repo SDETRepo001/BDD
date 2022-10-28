@@ -1,0 +1,370 @@
+2022-02-15 20:03:34,276 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-15 20:05:25,682 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-15 20:05:34,629 - logger_File -INFO - Actual title is matching with expected Title, so User is on retail website homepage
+2022-02-15 20:05:34,899 - logger_File -INFO - User click on Currency Button
+2022-02-15 20:05:35,787 - logger_File -INFO - User choose Euro from Dropdown
+2022-02-15 20:05:36,071 - logger_File -INFO - Currency value has changed to Euro
+2022-02-15 20:05:36,870 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-02-16 11:56:58,000 - logger_File -INFO - Scenario  Started
+2022-02-16 11:57:04,900 - logger_File -INFO - Acutal Title is matching with expected title
+2022-02-16 11:57:05,229 - logger_File -INFO - user clicked on My Account
+2022-02-16 11:57:05,928 - logger_File -INFO - user clicked on Login option
+2022-02-16 11:57:06,612 - logger_File -INFO - Scenario  FAILED
+2022-02-16 11:57:34,115 - logger_File -INFO - Scenario  Started
+2022-02-16 11:57:39,372 - logger_File -INFO - Acutal Title is matching with expected title
+2022-02-16 11:57:39,717 - logger_File -INFO - user clicked on My Account
+2022-02-16 11:57:40,354 - logger_File -INFO - user clicked on Login option
+2022-02-16 11:57:41,004 - logger_File -INFO - Scenario  FAILED
+2022-02-16 12:04:12,055 - logger_File -INFO - Scenario  Started
+2022-02-16 12:04:17,675 - logger_File -INFO - Acutal Title is matching with expected title
+2022-02-16 12:04:17,945 - logger_File -INFO - user clicked on My Account
+2022-02-16 12:04:18,645 - logger_File -INFO - user clicked on Login option
+2022-02-16 12:04:19,272 - logger_File -INFO - Scenario  FAILED
+2022-02-16 12:05:25,355 - logger_File -INFO - Scenario  Started
+2022-02-16 12:05:31,337 - logger_File -INFO - Acutal Title is matching with expected title
+2022-02-16 12:05:31,588 - logger_File -INFO - user clicked on My Account
+2022-02-16 12:05:32,325 - logger_File -INFO - user clicked on Login option
+2022-02-16 12:05:32,939 - logger_File -INFO - Scenario  FAILED
+2022-02-16 13:05:25,795 - logger_File -INFO - Scenario  Started
+2022-02-16 13:05:32,044 - logger_File -INFO - Acutal Title is matching with expected title
+2022-02-16 13:05:32,322 - logger_File -INFO - user clicked on My Account
+2022-02-16 13:05:33,001 - logger_File -INFO - user clicked on Login option
+2022-02-16 13:05:33,623 - logger_File -INFO - Scenario  FAILED
+2022-02-16 13:08:26,032 - logger_File -INFO - Scenario  Started
+2022-02-16 13:08:32,114 - logger_File -INFO - Acutal Title is matching with expected title
+2022-02-16 13:08:32,399 - logger_File -INFO - user clicked on My Account
+2022-02-16 13:08:33,064 - logger_File -INFO - user clicked on Login option
+2022-02-16 13:08:33,744 - logger_File -INFO - Scenario  FAILED
+2022-02-16 19:50:09,674 - logger_File -INFO - Scenario  Started
+2022-02-16 19:50:15,836 - logger_File -INFO - Acutal Title is matching with expected title
+2022-02-16 19:50:16,247 - logger_File -INFO - user clicked on My Account
+2022-02-16 19:50:17,002 - logger_File -INFO - user clicked on Login option
+2022-02-16 19:50:17,897 - logger_File -INFO - Scenario  FAILED
+2022-02-19 12:22:20,977 - logger_File -INFO - Scenario User verify currency values change Passed
+2022-02-19 12:22:29,235 - logger_File -INFO - Text verified! 
+2022-02-19 12:22:29,236 - logger_File -INFO - User entered to retail website successfully
+2022-02-19 12:22:32,344 - logger_File -INFO - User clicked on Euro currency drowpDown successfully
+2022-02-19 12:22:35,915 - logger_File -INFO - user chosed Euro from dropdown successfully
+2022-02-19 12:22:39,026 - logger_File -INFO - Currency value changed successfully to Euro.
+2022-02-19 12:22:39,432 - logger_File -INFO - Scenario User empty Shopping cart message displays Passed
+2022-02-19 12:22:49,216 - logger_File -INFO - Text verified! 
+2022-02-19 12:22:49,216 - logger_File -INFO - User entered to retail website successfully
+2022-02-19 12:22:52,306 - logger_File -INFO - User clicked on shopping cart successfully
+2022-02-19 12:22:55,425 - logger_File -INFO - The empty Shopping cart message displayed successfully 
+2022-02-19 12:23:50,019 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Passed
+2022-02-19 12:23:58,414 - logger_File -INFO - user cliked on laptop % Notebook tab successfully
+2022-02-19 12:24:02,111 - logger_File -INFO - User clicked on show all laptop & Notebook successfully
+2022-02-19 12:24:07,744 - logger_File -INFO - user clicked on MacBook item successfully
+2022-02-19 12:24:09,844 - logger_File -INFO - user clicked on Cart Button for Mac successfully
+2022-02-19 12:24:11,931 - logger_File -INFO - User can see the success message for MacBook successfully
+2022-02-19 12:24:13,980 - logger_File -INFO - User can see ‘1 tem(s)-602.00’ showed to the cart  
+2022-02-19 12:24:16,087 - logger_File -INFO - user clicked on Cart option successfully
+2022-02-19 12:24:18,233 - logger_File -INFO - User clicked on Red X successfully
+2022-02-19 12:24:23,555 - logger_File -INFO - User removed the item successfully from shopping cart
+2022-02-19 12:24:23,616 - logger_File -INFO - Scenario Product Comparison Passed
+2022-02-19 12:24:36,216 - logger_File -INFO - Text verified! 
+2022-02-19 12:24:36,217 - logger_File -INFO - User entered to retail website successfully
+2022-02-19 12:24:39,304 - logger_File -INFO - user cliked on laptop % Notebook tab successfully
+2022-02-19 12:24:41,795 - logger_File -INFO - User clicked on show all laptop & Notebook successfully
+2022-02-19 12:24:43,902 - logger_File -INFO - User clicked on comparison icon on MacBook successfully
+2022-02-19 12:24:46,036 - logger_File -INFO - User clicked on comparison icon on MacBook Air successfully
+2022-02-19 12:24:48,134 - logger_File -INFO - User can see the the success Message for MacBook Air successfully
+2022-02-19 12:24:50,592 - logger_File -INFO - User clicked on product comparison link successfully
+2022-02-19 12:24:52,732 - logger_File -INFO - User can see the product comparison chart Successfully
+2022-02-19 12:24:52,859 - logger_File -INFO - Scenario Adding an item to Wish list Passed
+2022-02-19 12:25:02,542 - logger_File -INFO - Text verified! 
+2022-02-19 12:25:02,542 - logger_File -INFO - User entered to retail website successfully
+2022-02-19 12:25:05,652 - logger_File -INFO - user cliked on laptop % Notebook tab successfully
+2022-02-19 12:25:08,714 - logger_File -INFO - User clicked on show all laptop & Notebook successfully
+2022-02-19 12:25:13,976 - logger_File -INFO - User clicked on wish list successfully
+2022-02-19 12:25:16,146 - logger_File -INFO - user can see the message successfully
+2022-02-19 12:25:16,169 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Passed
+2022-02-19 12:25:24,565 - logger_File -INFO - Text verified! 
+2022-02-19 12:25:24,566 - logger_File -INFO - User entered to retail website successfully
+2022-02-19 12:25:27,707 - logger_File -INFO - user cliked on laptop % Notebook tab successfully
+2022-02-19 12:25:30,602 - logger_File -INFO - User clicked on show all laptop & Notebook successfully
+2022-02-19 12:25:34,931 - logger_File -INFO - User clicked on MacBook Pro successfully
+2022-02-19 12:33:27,178 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Passed
+2022-02-19 12:33:34,500 - logger_File -INFO - Text verified! 
+2022-02-19 12:33:34,500 - logger_File -INFO - User entered to retail website successfully
+2022-02-19 12:33:37,642 - logger_File -INFO - user clicked on Desktops tab successfully
+2022-02-19 12:33:42,621 - logger_File -INFO - user clicked on Show all desktops button successfully
+2022-02-19 12:34:20,259 - logger_File -INFO - User can see all items are present in the Desktops page successfully
+2022-02-19 12:34:20,330 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart Passed
+2022-02-19 12:34:25,481 - logger_File -INFO - Text verified! 
+2022-02-19 12:34:25,482 - logger_File -INFO - User entered to retail website successfully
+2022-02-19 12:34:28,546 - logger_File -INFO - user clicked on Desktops tab successfully
+2022-02-19 12:34:33,200 - logger_File -INFO - user clicked on Show all desktops button successfully
+2022-02-19 12:34:36,300 - logger_File -INFO - added to Cart successfully
+2022-02-19 12:34:38,407 - logger_File -INFO - User successfully added quantity
+2022-02-19 12:34:38,511 - logger_File -INFO - user clicked Add to Cart button successfully
+2022-02-19 12:34:42,587 - logger_File -INFO - user added HPLP3065 to Shopping Cart successfully
+2022-02-19 12:34:42,784 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Passed
+2022-02-19 12:34:48,930 - logger_File -INFO - Text verified! 
+2022-02-19 12:34:48,931 - logger_File -INFO - User entered to retail website successfully
+2022-02-19 12:34:52,000 - logger_File -INFO - user clicked on Desktops tab successfully
+2022-02-19 12:34:57,792 - logger_File -INFO - user clicked on Show all desktops button successfully
+2022-02-19 12:35:00,884 - logger_File -INFO - user added Canon EOS 5D successfully
+2022-02-19 12:35:04,080 - logger_File -INFO - User selected red color successfully
+2022-02-19 12:35:04,198 - logger_File -INFO - user selected quantity 1 successfully
+2022-02-19 12:35:08,342 - logger_File -INFO - User clicked to Cart Button successfully
+2022-02-19 12:35:08,752 - logger_File -INFO - user can see all items on Desktop page successfully
+2022-02-19 12:35:08,788 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Passed
+2022-02-19 12:35:14,150 - logger_File -INFO - Text verified! 
+2022-02-19 12:35:14,151 - logger_File -INFO - User entered to retail website successfully
+2022-02-19 12:35:17,232 - logger_File -INFO - user clicked on Desktops tab successfully
+2022-02-19 12:35:22,443 - logger_File -INFO - user clicked on Show all desktops button successfully
+2022-02-19 12:35:29,102 - logger_File -INFO - User clicked on Canon EOS 5D item successfully
+2022-02-19 12:35:29,249 - logger_File -INFO -  User clicked on write a review link successfully 
+2022-02-19 12:35:30,139 - logger_File -INFO - user filled the review input text Box successfully.
+2022-02-19 12:35:33,402 - logger_File -INFO - User clicked on review button successfully
+2022-02-19 12:35:33,612 - logger_File -INFO - The user review has been sent successfully 
+2022-02-19 12:41:26,312 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Passed
+2022-02-19 12:41:34,707 - logger_File -INFO - user cliked on laptop % Notebook tab successfully
+2022-02-19 12:41:37,624 - logger_File -INFO - User clicked on show all laptop & Notebook successfully
+2022-02-19 12:41:44,010 - logger_File -INFO - user clicked on MacBook item successfully
+2022-02-19 12:41:46,080 - logger_File -INFO - user clicked on Cart Button for Mac successfully
+2022-02-19 12:41:48,214 - logger_File -INFO - User can see the success message for MacBook successfully
+2022-02-19 12:41:50,293 - logger_File -INFO - User can see ‘1 tem(s)-602.00’ showed to the cart  
+2022-02-19 12:41:52,389 - logger_File -INFO - user clicked on Cart option successfully
+2022-02-19 12:41:54,482 - logger_File -INFO - User clicked on Red X successfully
+2022-02-19 12:41:59,783 - logger_File -INFO - User removed the item successfully from shopping cart
+2022-02-19 12:41:59,836 - logger_File -INFO - Scenario Product Comparison Passed
+2022-02-19 12:42:05,124 - logger_File -INFO - Text verified! 
+2022-02-19 12:42:05,125 - logger_File -INFO - User entered to retail website successfully
+2022-02-19 12:42:08,202 - logger_File -INFO - user cliked on laptop % Notebook tab successfully
+2022-02-19 12:42:11,251 - logger_File -INFO - User clicked on show all laptop & Notebook successfully
+2022-02-19 12:42:13,384 - logger_File -INFO - User clicked on comparison icon on MacBook successfully
+2022-02-19 12:42:15,510 - logger_File -INFO - User clicked on comparison icon on MacBook Air successfully
+2022-02-19 12:42:17,588 - logger_File -INFO - User can see the the success Message for MacBook Air successfully
+2022-02-19 12:42:20,085 - logger_File -INFO - User clicked on product comparison link successfully
+2022-02-19 12:42:22,185 - logger_File -INFO - User can see the product comparison chart Successfully
+2022-02-19 12:42:22,313 - logger_File -INFO - Scenario Adding an item to Wish list Passed
+2022-02-19 12:42:31,149 - logger_File -INFO - Text verified! 
+2022-02-19 12:42:31,149 - logger_File -INFO - User entered to retail website successfully
+2022-02-19 12:42:34,218 - logger_File -INFO - user cliked on laptop % Notebook tab successfully
+2022-02-19 12:42:36,774 - logger_File -INFO - User clicked on show all laptop & Notebook successfully
+2022-02-19 12:42:42,049 - logger_File -INFO - User clicked on wish list successfully
+2022-02-19 12:42:44,310 - logger_File -INFO - user can see the message successfully
+2022-02-19 12:42:44,331 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Passed
+2022-02-19 12:42:50,464 - logger_File -INFO - Text verified! 
+2022-02-19 12:42:50,465 - logger_File -INFO - User entered to retail website successfully
+2022-02-19 12:42:53,540 - logger_File -INFO - user cliked on laptop % Notebook tab successfully
+2022-02-19 12:42:56,513 - logger_File -INFO - User clicked on show all laptop & Notebook successfully
+2022-02-19 12:43:02,574 - logger_File -INFO - User clicked on MacBook Pro successfully
+2022-02-19 12:49:21,585 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Passed
+2022-02-19 12:49:32,920 - logger_File -INFO - user cliked on laptop % Notebook tab successfully
+2022-02-19 12:49:35,730 - logger_File -INFO - User clicked on show all laptop & Notebook successfully
+2022-02-19 12:49:41,390 - logger_File -INFO - user clicked on MacBook item successfully
+2022-02-19 12:49:43,514 - logger_File -INFO - user clicked on Cart Button for Mac successfully
+2022-02-19 12:49:45,648 - logger_File -INFO - User can see the success message for MacBook successfully
+2022-02-19 12:49:47,740 - logger_File -INFO - User can see ‘1 tem(s)-602.00’ showed to the cart  
+2022-02-19 12:49:49,869 - logger_File -INFO - user clicked on Cart option successfully
+2022-02-19 12:49:52,031 - logger_File -INFO - User clicked on Red X successfully
+2022-02-19 12:49:57,343 - logger_File -INFO - User removed the item successfully from shopping cart
+2022-02-19 12:49:57,404 - logger_File -INFO - Scenario Product Comparison Passed
+2022-02-19 12:50:01,669 - logger_File -INFO - Text verified! 
+2022-02-19 12:50:01,669 - logger_File -INFO - User entered to retail website successfully
+2022-02-19 12:50:04,753 - logger_File -INFO - user cliked on laptop % Notebook tab successfully
+2022-02-19 12:50:07,346 - logger_File -INFO - User clicked on show all laptop & Notebook successfully
+2022-02-19 12:50:09,413 - logger_File -INFO - User clicked on comparison icon on MacBook successfully
+2022-02-19 12:50:11,524 - logger_File -INFO - User clicked on comparison icon on MacBook Air successfully
+2022-02-19 12:50:13,613 - logger_File -INFO - User can see the the success Message for MacBook Air successfully
+2022-02-19 12:50:15,967 - logger_File -INFO - User clicked on product comparison link successfully
+2022-02-19 12:50:18,087 - logger_File -INFO - User can see the product comparison chart Successfully
+2022-02-19 12:50:18,226 - logger_File -INFO - Scenario Adding an item to Wish list Passed
+2022-02-19 12:50:23,233 - logger_File -INFO - Text verified! 
+2022-02-19 12:50:23,234 - logger_File -INFO - User entered to retail website successfully
+2022-02-19 12:50:26,351 - logger_File -INFO - user cliked on laptop % Notebook tab successfully
+2022-02-19 12:50:28,994 - logger_File -INFO - User clicked on show all laptop & Notebook successfully
+2022-02-19 12:50:34,233 - logger_File -INFO - User clicked on wish list successfully
+2022-02-19 12:50:36,433 - logger_File -INFO - user can see the message successfully
+2022-02-19 12:50:36,456 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Passed
+2022-02-19 12:50:42,165 - logger_File -INFO - Text verified! 
+2022-02-19 12:50:42,166 - logger_File -INFO - User entered to retail website successfully
+2022-02-19 12:50:45,243 - logger_File -INFO - user cliked on laptop % Notebook tab successfully
+2022-02-19 12:50:47,929 - logger_File -INFO - User clicked on show all laptop & Notebook successfully
+2022-02-19 12:50:51,632 - logger_File -INFO - User clicked on MacBook Pro successfully
+2022-02-19 12:52:22,971 - logger_File -INFO - Scenario User verify currency values change Passed
+2022-02-19 12:52:29,430 - logger_File -INFO - Text verified! 
+2022-02-19 12:52:29,431 - logger_File -INFO - User entered to retail website successfully
+2022-02-19 12:52:32,524 - logger_File -INFO - User clicked on Euro currency drowpDown successfully
+2022-02-19 12:52:36,126 - logger_File -INFO - user chosed Euro from dropdown successfully
+2022-02-19 12:52:39,238 - logger_File -INFO - Currency value changed successfully to Euro.
+2022-02-19 12:52:39,517 - logger_File -INFO - Scenario User empty Shopping cart message displays Passed
+2022-02-19 12:52:45,322 - logger_File -INFO - Text verified! 
+2022-02-19 12:52:45,322 - logger_File -INFO - User entered to retail website successfully
+2022-02-19 12:52:48,428 - logger_File -INFO - User clicked on shopping cart successfully
+2022-02-19 12:52:51,518 - logger_File -INFO - The empty Shopping cart message displayed successfully 
+2022-02-19 13:16:03,818 - logger_File -INFO - Scenario Login to My Account Dashboard Passed
+2022-02-19 13:16:10,086 - logger_File -INFO - Text verified! 
+2022-02-19 13:16:10,088 - logger_File -INFO - User entered to retail website successfully
+2022-02-19 13:16:13,229 - logger_File -INFO - user clicked on MyAccount tab successfully
+2022-02-19 13:16:15,631 - logger_File -INFO - user clicked on login button 1 successfully
+2022-02-19 13:16:17,971 - logger_File -INFO - user entered username and password successfully
+2022-02-19 13:16:21,496 - logger_File -INFO - user clicked on login button 2 successfully
+2022-02-19 13:16:23,614 - logger_File -INFO - user logged into My account dashboard successfuly 
+2022-02-19 13:16:23,846 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Passed
+2022-02-19 13:16:31,235 - logger_File -INFO - User clicked on Affiliate Link successfully
+2022-02-19 13:16:34,488 - logger_File -INFO - user clicked on continue button successfully.
+2022-02-19 13:16:38,031 - logger_File -INFO - user filled the the affiliate Registeraion form successfully.
+2022-02-19 13:16:41,107 - logger_File -INFO - user checked the agree button successfully
+2022-02-19 13:16:41,821 - logger_File -INFO - User clicked on Continue button successfully
+2022-02-19 13:16:45,041 - logger_File -INFO - success message succesfully
+2022-02-19 13:16:45,060 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Passed
+2022-02-19 13:16:51,459 - logger_File -INFO - User in on Affiliate webPage successfully
+2022-02-19 13:16:52,173 - logger_File -INFO - User entered affiliate email and password successfully
+2022-02-19 13:16:59,282 - logger_File -INFO - user clicked on Bank transfer radio button successfully
+2022-02-19 13:17:03,036 - logger_File -INFO - user filled the the affiliate Info form successfully.
+2022-02-19 13:17:06,547 - logger_File -INFO - user clicked on continue button successfully
+2022-02-19 13:17:09,758 - logger_File -INFO - user can see the success message successfully
+2022-02-19 13:17:09,779 - logger_File -INFO - Scenario Edit your account Information Passed
+2022-02-19 13:17:18,119 - logger_File -INFO - User in on Affiliate webPage successfully
+2022-02-19 13:17:19,013 - logger_File -INFO - User entered affiliate email and password successfully
+2022-02-19 13:17:22,883 - logger_File -INFO - User clicked on Affiliate link successfuly
+2022-02-19 13:17:25,570 - logger_File -INFO - user filled the the affiliate Info form successfully.
+2022-02-19 13:17:29,119 - logger_File -INFO - user clicked on continue button successfully
+2022-02-19 13:20:13,804 - logger_File -INFO - Scenario Login to My Account Dashboard Passed
+2022-02-19 13:20:20,116 - logger_File -INFO - Text verified! 
+2022-02-19 13:20:20,117 - logger_File -INFO - User entered to retail website successfully
+2022-02-19 13:20:23,265 - logger_File -INFO - user clicked on MyAccount tab successfully
+2022-02-19 13:20:25,621 - logger_File -INFO - user clicked on login button 1 successfully
+2022-02-19 13:20:27,945 - logger_File -INFO - user entered username and password successfully
+2022-02-19 13:20:31,427 - logger_File -INFO - user clicked on login button 2 successfully
+2022-02-19 13:20:33,573 - logger_File -INFO - user logged into My account dashboard successfuly 
+2022-02-19 13:20:33,802 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Passed
+2022-02-19 13:20:38,831 - logger_File -INFO - User clicked on Affiliate Link successfully
+2022-02-19 13:20:41,681 - logger_File -INFO - user clicked on continue button successfully.
+2022-02-19 13:20:44,966 - logger_File -INFO - user filled the the affiliate Registeraion form successfully.
+2022-02-19 13:20:48,029 - logger_File -INFO - user checked the agree button successfully
+2022-02-19 13:20:48,365 - logger_File -INFO - User clicked on Continue button successfully
+2022-02-19 13:21:18,617 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Passed
+2022-02-19 13:21:23,689 - logger_File -INFO - User in on Affiliate webPage successfully
+2022-02-19 13:21:24,600 - logger_File -INFO - User entered affiliate email and password successfully
+2022-02-19 13:21:42,572 - logger_File -INFO - Scenario Edit your account Information Passed
+2022-02-19 13:21:48,096 - logger_File -INFO - User in on Affiliate webPage successfully
+2022-02-19 13:21:48,635 - logger_File -INFO - User entered affiliate email and password successfully
+2022-02-19 13:23:33,135 - logger_File -INFO - Scenario Login to My Account Dashboard Passed
+2022-02-19 13:23:38,733 - logger_File -INFO - Text verified! 
+2022-02-19 13:23:38,735 - logger_File -INFO - User entered to retail website successfully
+2022-02-19 13:23:41,820 - logger_File -INFO - user clicked on MyAccount tab successfully
+2022-02-19 13:23:44,127 - logger_File -INFO - user clicked on login button 1 successfully
+2022-02-19 13:23:46,474 - logger_File -INFO - user entered username and password successfully
+2022-02-19 13:23:49,925 - logger_File -INFO - user clicked on login button 2 successfully
+2022-02-19 13:23:52,069 - logger_File -INFO - user logged into My account dashboard successfuly 
+2022-02-19 13:23:52,252 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Passed
+2022-02-19 13:23:57,265 - logger_File -INFO - User clicked on Affiliate Link successfully
+2022-02-19 13:24:00,646 - logger_File -INFO - user clicked on continue button successfully.
+2022-02-19 13:24:03,966 - logger_File -INFO - user filled the the affiliate Registeraion form successfully.
+2022-02-19 13:24:07,049 - logger_File -INFO - user checked the agree button successfully
+2022-02-19 13:24:07,601 - logger_File -INFO - User clicked on Continue button successfully
+2022-02-19 13:24:10,828 - logger_File -INFO - success message succesfully
+2022-02-19 13:24:10,848 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Passed
+2022-02-19 13:24:15,916 - logger_File -INFO - User in on Affiliate webPage successfully
+2022-02-19 13:24:16,713 - logger_File -INFO - User entered affiliate email and password successfully
+2022-02-19 13:24:23,622 - logger_File -INFO - user clicked on Bank transfer radio button successfully
+2022-02-19 13:24:27,356 - logger_File -INFO - user filled the the affiliate Info form successfully.
+2022-02-19 13:24:30,882 - logger_File -INFO - user clicked on continue button successfully
+2022-02-19 13:24:34,170 - logger_File -INFO - user can see the success message successfully
+2022-02-19 13:24:34,197 - logger_File -INFO - Scenario Edit your account Information Passed
+2022-02-19 13:24:40,125 - logger_File -INFO - User in on Affiliate webPage successfully
+2022-02-19 13:24:40,949 - logger_File -INFO - User entered affiliate email and password successfully
+2022-02-19 13:24:44,774 - logger_File -INFO - User clicked on Affiliate link successfuly
+2022-02-19 13:24:47,343 - logger_File -INFO - user filled the the affiliate Info form successfully.
+2022-02-19 13:24:50,999 - logger_File -INFO - user clicked on continue button successfully
+2022-02-19 13:27:44,932 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Passed
+2022-02-19 13:27:52,375 - logger_File -INFO - user cliked on laptop % Notebook tab successfully
+2022-02-19 13:27:54,976 - logger_File -INFO - User clicked on show all laptop & Notebook successfully
+2022-02-19 13:27:59,023 - logger_File -INFO - user clicked on MacBook item successfully
+2022-02-19 13:28:01,163 - logger_File -INFO - user clicked on Cart Button for Mac successfully
+2022-02-19 13:28:03,226 - logger_File -INFO - User can see the success message for MacBook successfully
+2022-02-19 13:28:05,302 - logger_File -INFO - User can see ‘1 tem(s)-602.00’ showed to the cart  
+2022-02-19 13:28:07,420 - logger_File -INFO - user clicked on Cart option successfully
+2022-02-19 13:28:09,520 - logger_File -INFO - User clicked on Red X successfully
+2022-02-19 13:28:14,841 - logger_File -INFO - User removed the item successfully from shopping cart
+2022-02-19 13:28:14,872 - logger_File -INFO - Scenario Product Comparison Passed
+2022-02-19 13:28:19,786 - logger_File -INFO - Text verified! 
+2022-02-19 13:28:19,786 - logger_File -INFO - User entered to retail website successfully
+2022-02-19 13:28:22,866 - logger_File -INFO - user cliked on laptop % Notebook tab successfully
+2022-02-19 13:28:25,300 - logger_File -INFO - User clicked on show all laptop & Notebook successfully
+2022-02-19 13:28:27,395 - logger_File -INFO - User clicked on comparison icon on MacBook successfully
+2022-02-19 13:28:29,482 - logger_File -INFO - User clicked on comparison icon on MacBook Air successfully
+2022-02-19 13:28:31,549 - logger_File -INFO - User can see the the success Message for MacBook Air successfully
+2022-02-19 13:28:33,932 - logger_File -INFO - User clicked on product comparison link successfully
+2022-02-19 13:28:36,027 - logger_File -INFO - User can see the product comparison chart Successfully
+2022-02-19 13:28:36,166 - logger_File -INFO - Scenario Adding an item to Wish list Passed
+2022-02-19 13:28:40,651 - logger_File -INFO - Text verified! 
+2022-02-19 13:28:40,652 - logger_File -INFO - User entered to retail website successfully
+2022-02-19 13:28:43,759 - logger_File -INFO - user cliked on laptop % Notebook tab successfully
+2022-02-19 13:28:46,221 - logger_File -INFO - User clicked on show all laptop & Notebook successfully
+2022-02-19 13:28:51,480 - logger_File -INFO - User clicked on wish list successfully
+2022-02-19 13:28:53,661 - logger_File -INFO - user can see the message successfully
+2022-02-19 13:28:53,683 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Passed
+2022-02-19 13:28:59,281 - logger_File -INFO - Text verified! 
+2022-02-19 13:28:59,281 - logger_File -INFO - User entered to retail website successfully
+2022-02-19 13:29:02,363 - logger_File -INFO - user cliked on laptop % Notebook tab successfully
+2022-02-19 13:29:05,416 - logger_File -INFO - User clicked on show all laptop & Notebook successfully
+2022-02-19 13:29:09,305 - logger_File -INFO - User clicked on MacBook Pro successfully
+2022-06-13 13:38:10,067 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Passed
+2022-06-13 13:38:19,338 - logger_File -INFO - user cliked on laptop % Notebook tab successfully
+2022-06-13 13:38:21,886 - logger_File -INFO - User clicked on show all laptop & Notebook successfully
+2022-06-13 13:38:23,992 - logger_File -INFO - user clicked on MacBook item successfully
+2022-06-13 13:38:56,227 - logger_File -INFO - Scenario Product Comparison Passed
+2022-06-13 13:38:59,467 - logger_File -INFO - Text verified! 
+2022-06-13 13:38:59,468 - logger_File -INFO - User entered to retail website successfully
+2022-06-13 13:39:02,606 - logger_File -INFO - user cliked on laptop % Notebook tab successfully
+2022-06-13 13:39:05,166 - logger_File -INFO - User clicked on show all laptop & Notebook successfully
+2022-06-13 13:39:07,277 - logger_File -INFO - User clicked on comparison icon on MacBook successfully
+2022-06-13 13:39:09,395 - logger_File -INFO - User clicked on comparison icon on MacBook Air successfully
+2022-06-13 13:39:11,524 - logger_File -INFO - User can see the the success Message for MacBook Air successfully
+2022-06-13 13:39:14,141 - logger_File -INFO - User clicked on product comparison link successfully
+2022-06-13 13:39:16,289 - logger_File -INFO - User can see the product comparison chart Successfully
+2022-06-13 13:39:16,655 - logger_File -INFO - Scenario Adding an item to Wish list Passed
+2022-06-13 13:39:19,848 - logger_File -INFO - Text verified! 
+2022-06-13 13:39:19,850 - logger_File -INFO - User entered to retail website successfully
+2022-06-13 13:39:23,037 - logger_File -INFO - user cliked on laptop % Notebook tab successfully
+2022-06-13 13:39:25,673 - logger_File -INFO - User clicked on show all laptop & Notebook successfully
+2022-06-13 13:39:31,238 - logger_File -INFO - User clicked on wish list successfully
+2022-06-13 13:39:33,562 - logger_File -INFO - user can see the message successfully
+2022-06-13 13:39:33,581 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Passed
+2022-06-13 13:39:37,083 - logger_File -INFO - Text verified! 
+2022-06-13 13:39:37,084 - logger_File -INFO - User entered to retail website successfully
+2022-06-13 13:39:40,235 - logger_File -INFO - user cliked on laptop % Notebook tab successfully
+2022-06-13 13:39:42,796 - logger_File -INFO - User clicked on show all laptop & Notebook successfully
+2022-06-13 13:39:47,072 - logger_File -INFO - User clicked on MacBook Pro successfully
+2022-06-13 16:35:15,155 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Passed
+2022-06-13 16:35:21,306 - logger_File -INFO - user cliked on laptop % Notebook tab successfully
+2022-06-13 16:35:25,107 - logger_File -INFO - User clicked on show all laptop & Notebook successfully
+2022-06-13 16:35:27,607 - logger_File -INFO - user clicked on MacBook item successfully
+2022-06-13 16:35:59,848 - logger_File -INFO - Scenario Product Comparison Passed
+2022-06-13 16:36:02,589 - logger_File -INFO - Text verified! 
+2022-06-13 16:36:02,590 - logger_File -INFO - User entered to retail website successfully
+2022-06-13 16:36:05,801 - logger_File -INFO - user cliked on laptop % Notebook tab successfully
+2022-06-13 16:36:12,663 - logger_File -INFO - User clicked on show all laptop & Notebook successfully
+2022-06-13 16:36:16,096 - logger_File -INFO - User clicked on comparison icon on MacBook successfully
+2022-06-13 16:36:18,726 - logger_File -INFO - User clicked on comparison icon on MacBook Air successfully
+2022-06-13 16:36:21,219 - logger_File -INFO - User can see the the success Message for MacBook Air successfully
+2022-06-13 16:36:24,431 - logger_File -INFO - User clicked on product comparison link successfully
+2022-06-13 16:36:27,059 - logger_File -INFO - User can see the product comparison chart Successfully
+2022-06-13 16:36:28,213 - logger_File -INFO - Scenario Adding an item to Wish list Passed
+2022-06-13 16:36:35,154 - logger_File -INFO - Text verified! 
+2022-06-13 16:36:35,155 - logger_File -INFO - User entered to retail website successfully
+2022-06-13 16:36:39,734 - logger_File -INFO - user cliked on laptop % Notebook tab successfully
+2022-06-13 16:36:44,422 - logger_File -INFO - User clicked on show all laptop & Notebook successfully
+2022-06-13 16:36:51,579 - logger_File -INFO - User clicked on wish list successfully
+2022-06-13 16:36:54,675 - logger_File -INFO - user can see the message successfully
+2022-06-13 16:36:54,751 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Passed
+2022-06-13 16:37:02,793 - logger_File -INFO - Text verified! 
+2022-06-13 16:37:02,794 - logger_File -INFO - User entered to retail website successfully
+2022-06-13 16:37:06,367 - logger_File -INFO - user cliked on laptop % Notebook tab successfully
+2022-06-13 16:37:11,393 - logger_File -INFO - User clicked on show all laptop & Notebook successfully
+2022-06-13 16:37:20,426 - logger_File -INFO - User clicked on MacBook Pro successfully
+2022-09-20 18:18:41,094 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Passed
+2022-09-20 18:18:45,637 - logger_File -INFO - user cliked on laptop % Notebook tab successfully
+2022-09-20 18:18:48,090 - logger_File -INFO - User clicked on show all laptop & Notebook successfully
+2022-09-20 18:18:50,507 - logger_File -INFO - user clicked on MacBook item successfully
+2022-09-20 18:18:52,554 - logger_File -INFO - Scenario Product Comparison Passed
+2022-09-20 18:18:54,772 - logger_File -INFO - Text verified! 
+2022-09-20 18:18:54,773 - logger_File -INFO - User entered to retail website successfully
+2022-09-20 18:31:09,172 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Passed
+2022-09-20 18:31:12,050 - logger_File -INFO - user cliked on laptop % Notebook tab successfully
